@@ -22,10 +22,10 @@ $(function(){
 				message += hours + " hora" 		+ ( (hours==1   || hours==0)   ? '':'s' ) + ", ";
 				message += minutes + " minuto" 	+ ( (minutes==1 || minutes==0) ? '':'s' ) + " e ";
 				message += seconds + " segundo" + ( (seconds==1 || seconds==0) ? '':'s' ) + " <br />";
-				message += "para o iniciar!";
+				message += "para iniciar!";
 			}
 			else {
-				message += "A transmissão comessará a qualquer momento no link abaixo:";
+				message += "A transmissão comessará a qualquer momento...";
 			}
 			
 			note.html(message);
