@@ -1,34 +1,46 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
 	<head>
 		<meta charset="utf-8" />
-        <meta content="IE=edge" http-equiv="X-UA-Compatible" />
-        <meta content="width=device-width, initial-scale=1" name="viewport" />
 		<title>Conferência da Estaca Fortaleza Brasil Leste</title>
-		<link   type="image/x-icon"    href="assets/img/favicon.ico" rel="icon" />
 		<meta   name="keywords"        content="Conferencia, Conferencia da Estaca, Conferencia da Estaca Fortaleza, Conferencia da Estaca Fortaleza Leste, Conferencia da Estaca Fortaleza Brasil Leste, Estaca Fortaleza Leste, Estaca Fortaleza Brasil Leste" />
 		<meta   name="description"     content="Conferencia da Estaca Fortaleza Brasil Leste" />
 		<meta   name="copyright"       content="©Código aberto" />
 		<meta   name="author"          content="Mick Hill" />
-		<meta   name="contact"         content="mickhill@hotmail.com.br" />
-
-		<!-- Our CSS stylesheet file -->
+		<meta   name="contact"         content="mickhill.qa@outlook.com" />
+		<meta   content="IE=edge"      http-equiv="X-UA-Compatible" />
+		<meta   name="viewport"        content="width=device-width, initial-scale=1" />
+		
+		<link rel="icon"       href="assets/img/favicon.ico" type="image/x-icon" />
 		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" />
-		<link rel="stylesheet" href="assets/css/styles.css" />
+		<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
 		<link rel="stylesheet" href="assets/countdown/jquery.countdown.css" />
+		<link rel="stylesheet" href="assets/css/styles_estaca_conferencia.css" />
+
+		<!--[if lt IE 9]>
+			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
 	</head>
-    
+
 	<body>
-		<div class="conteudo">
-			<div id="countdown"></div>
-			<p class="texto" id="note"></p>
-			<p class="texto"><a target="blank" href="https://youtu.be/MV66HEAz03w">Abrir YouTube</a></p>
-		</div>
+		<section class="container-fluid">
+			<div class="row">
+				<div id="container-countdown" class="col-12 col-md-8 offset-md-2 col-xl-6 offset-xl-3 text-center">
+					<div id="countdown"></div>
+					<p id="note"></p>
+					<p><a class="btn btn-youtube" target="blank" href="https://youtu.be/MV66HEAz03w">Abrir YouTube</a></p>
+				</div>
+			</div>
+		</section>
+		
+		
+
+		<!-- Bootstrap Bundle with Popper -->
+		<script src="assets/js/bootstrap.bundle.min.js"></script>
 
 		<!-- JavaScript includes -->
 		<script src="assets/js/jquery-1.7.1.min.js"></script>
 		<script src="assets/countdown/jquery.countdown.js"></script>
-		<script src="assets/js/script.js"></script>
+		<script src="assets/js/script.countdown.js"></script>
 	</body>
 </html>
-
