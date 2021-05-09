@@ -1,7 +1,7 @@
 $(function(){
 	
 	var note = $('#note'),
-		ts = new Date('2021/04/11 10:30:00'),
+		ts = new Date('2021/05/09 10:30:00'),
 		// ts = new Date('2021/02/27 13:40:00'),
 		newYear = true;
 	
