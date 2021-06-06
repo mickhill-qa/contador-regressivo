@@ -1,7 +1,7 @@
 $(function(){
 	
 	var note = $('#note'),
-		ts = new Date('2021/05/30 10:30:00'),
+		ts = new Date('2021/06/06 10:30:00'),
 		// ts = new Date('2021/02/27 13:40:00'),
 		newYear = true;
 	
@@ -25,7 +25,7 @@ $(function(){
 				message += "para iniciar!";
 			}
 			else {
-				message += "A transmissão comessará a qualquer momento...";
+				message += "A transmissão começará a qualquer momento...";
 				countdown.style.display = "none";
 			}
 			
