@@ -21,7 +21,6 @@
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
-  color: #333;
   text-shadow: none; /* Prevent inheritance from `body` */
 }
 
@@ -72,7 +71,7 @@ body {
  * Main
  */
 .btn{transition: 400ms;margin-top: 10px;}
-.btn-youtube {color: #eeeeee;background-color: #f59611;border-color: #f59611;}
-.btn-youtube:hover{color: #eeeeee;background-color: #dd1811;border-color: #dd1811;}
-.btn-success {color: #eeeeee;background-color: #f59611;border-color: #f59611;}
-.btn-success:hover{color: #eeeeee;background-color: #198754;border-color: #198754;}
+.btn-primary {color: #eeeeee;background-color: #f59611;border-color: #f59611;}
+.btn-primary+.btn-check:focus,
+.btn-primary:focus,
+.btn-primary:hover{color: #eeeeee;background-color: #dd1811;border-color: #dd1811;}
