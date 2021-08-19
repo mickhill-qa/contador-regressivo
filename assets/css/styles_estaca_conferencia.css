@@ -19,8 +19,21 @@ a, a:visited {text-decoration: none;outline: none;text-shadow: none;}
 #container-countdown > p{color: #eeeeee;font-size: 20px;margin: 0 auto;padding: 4px;text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);}
 #container-countdown > #countdown{width: 100%;}
 
+
+.btn{transition: 400ms;margin-top: 10px;}
+
+.btn-primary {color: #eeeeee;background-color: #f59611;border-color: #f59611;}
+.btn-primary+.btn-check:focus,
+.btn-primary:focus,
+.btn-primary:hover {color: #eeeeee;background-color: #0e71eb;border-color: #0e71eb;}
+
 .btn-youtube {color: #eeeeee;background-color: #dd1811;border-color: #dd1811;}
 .btn-youtube:hover {color: #eeeeee;background-color: #b4140f;border-color: #b4140f;}
+
+.btn-zoom {color: #eeeeee;background-color: #0e71eb;border-color: #0e71eb;}
+.btn-zoom+.btn-check:focus,
+.btn-zoom:focus,
+.btn-zoom:hover{color: #eeeeee;background-color: #0b4791;border-color: #0b4791;}
 
 
 /*----------------------------

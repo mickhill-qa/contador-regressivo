@@ -66,13 +66,3 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
-
-
-/*
- * Main
- */
-.btn{transition: 400ms;margin-top: 10px;}
-.btn-primary {color: #eeeeee;background-color: #f59611;border-color: #f59611;}
-.btn-primary+.btn-check:focus,
-.btn-primary:focus,
-.btn-primary:hover{color: #eeeeee;background-color: #dd1811;border-color: #dd1811;}
