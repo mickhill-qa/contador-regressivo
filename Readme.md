@@ -14,8 +14,8 @@ Para quem irá assistir online...
 - No Computador basta clicar nos links das sessões;
 - No celular será necessário baixar o Aplicativo Zoom:
 ```
-- [Download Android](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
-- [Download IOS](https://itunes.apple.com/us/app/id546505307)
+- [Download Zoom - Android](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
+- [Download Zoom - IOS](https://itunes.apple.com/us/app/id546505307)
 
 ```
 OBS.: Não precisa de uma conta no Zoom, somente o alicativo instalado.
