@@ -1,4 +1,4 @@
-# Estaca Fortaleza Brasil Leste
+<!-- # Estaca Fortaleza Brasil Leste -->
 <!-- Links de Transmissões: -->
 
 <!-- - [Ala Cidade dos Funcionários](https://mickhill-qa.github.io/estaca-fortaleza-brasil-leste/ala-cidade-dos-funcionarios/) -->
@@ -11,7 +11,7 @@
 IMPORTATE SABER!
 
 Para quem irá assistir online...
-- No Computador basta clicar no link;
+- No Computador basta clicar nos links das sessões;
 - No celular será necessário baixar o Aplicativo Zoom:
 ```
 - [Download Android](https://play.google.com/store/apps/details?id=us.zoom.videomeetings)
@@ -23,7 +23,7 @@ OBS.: Não precisa de uma conta no Zoom, somente o alicativo instalado.
     
 ---
 ## Sessão de ***Liderança***
-##### Sábado dia 21 de Agosto às 16h até 18h.
+##### Sábado dia 21 de Agosto de 2021 às 16h até 18h.
 - [Link da Sessão](#)
     ```
     Assistir ONLINE: 
@@ -51,7 +51,7 @@ OBS.: Não precisa de uma conta no Zoom, somente o alicativo instalado.
 
 ---
 ## Sessão ***Geral***
-##### Domingo dia 22 de Agosto às 9h até 11h.
+##### Domingo dia 22 de Agosto de 2021 às 9h até 11h.
 - [Link da Sessão](https://mickhill-qa.github.io/estaca-fortaleza-brasil-leste/conferencia-de-agosto-de-2021-sessao-geral-de-domingo)
     ```
     Assistir ONLINE: 
