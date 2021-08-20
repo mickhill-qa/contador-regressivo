@@ -24,7 +24,7 @@ OBS.: Não precisa de uma conta no Zoom, somente o alicativo instalado.
 ---
 ## Sessão de ***Liderança***
 ##### Sábado dia 21 de Agosto de 2021 às 16h até 18h.
-- [Link da Sessão](#)
+- [Link da Sessão](https://mickhill-qa.github.io/estaca-fortaleza-brasil-leste/conferencia-de-agosto-de-2021-sessao-de-lideranca-de-sabado)
     ```
     Assistir ONLINE: 
         Todos LIDERES das Alas e Estaca.
