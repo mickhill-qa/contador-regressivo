@@ -24,7 +24,7 @@ OBS.: Não precisa de uma conta no Zoom, somente o alicativo instalado.
 ---
 ## Sessão de ***Liderança***
 ##### Sábado dia 21 de Agosto de 2021 às 16h até 18h.
-- [Link da Sessão](https://mickhill-qa.github.io/estaca-fortaleza-brasil-leste/conferencia-de-agosto-de-2021-sessao-de-lideranca-de-sabado)
+- [Link da Sessão (click aqui)](https://mickhill-qa.github.io/estaca-fortaleza-brasil-leste/conferencia-de-agosto-de-2021-sessao-de-lideranca-de-sabado)
     ```
     Assistir ONLINE: 
         Todos LIDERES das Alas e Estaca.
@@ -52,7 +52,7 @@ OBS.: Não precisa de uma conta no Zoom, somente o alicativo instalado.
 ---
 ## Sessão ***Geral***
 ##### Domingo dia 22 de Agosto de 2021 às 9h até 11h.
-- [Link da Sessão](https://mickhill-qa.github.io/estaca-fortaleza-brasil-leste/conferencia-de-agosto-de-2021-sessao-geral-de-domingo)
+- [Link da Sessão (click aqui)](https://mickhill-qa.github.io/estaca-fortaleza-brasil-leste/conferencia-de-agosto-de-2021-sessao-geral-de-domingo)
     ```
     Assistir ONLINE: 
         Aberto a Todos.
