@@ -1,0 +1,8 @@
+body{
+    background-image: url('page_bg_devocional.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font: 14px/1.3 'Segoe UI',Arial, sans-serif;
+}
