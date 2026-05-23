@@ -5,3 +5,4 @@ Links:
 - [Sacramental - Ala Cidade dos Funcionários](/contador-regressivo/contadores/ala-cidade-dos-funcionarios/)
 - [Devocional Estaca Leste 26-09-2021](/contador-regressivo/contadores/devocional-26-09-2021/)
 - [La Casa de QA - Crato](/contador-regressivo/contadores/endgame/)
+- [Conferência da estaca Juazeiro do Norte](/contador-regressivo/contadores/conferencia-da-estaca-juazeiro-do-norte)
